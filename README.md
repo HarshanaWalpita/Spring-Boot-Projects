@@ -1,2 +1,2 @@
 # Spring-Boot-Projects
-Projects using spring boot framework and Angular
+Projects using spring boot framework and Angula
